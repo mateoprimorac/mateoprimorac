@@ -2,7 +2,11 @@ music is a **very important** element of my workflow<br>
 some of my favourite genres of music are: nu/thrash/alternative metal, rock, ambient, breakcore, vocaloid<br>
 some of my favourite music artists are: System Of A Down, Pantera, Mick Gordon, Aphex Twin, Venetian Snares, Boards of Canada, hkmori, usedcvnt, PinocchioP, INABAKUMORI<br><br>
 
-to make it easier for you, the reader of this text file, to navigate through my playlists i have put them in this repository as .txt files seperated and named based on genre/type<br>
+to make it easier for you, the reader of this text file, to navigate through my playlists i have put them in this repository as .txt files seperated and named based on genre/type:<br>
+1. <a href="rock and metal.txt">rock and metal</a>
+2. <a href="breakcore.txt">breakcore</a>
+3. <a href="vocaloid.txt">vocaloid</a><br>
+
 i hope you enjoy them, and maybe discover some new music artists or get to like new music.<br><br><br>
 
 
