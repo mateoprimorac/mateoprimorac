@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 fiddling with tech since i was 9<br>📊 graph enjoyer<br>🕹️ fps and rhythm gamer<br>🏎️ motorsports fan</p>
+<p align="left">💻 fiddling with tech since i was 9<br>📊 graph enjoyer<br>🕹️ fps and rhythm gamer<br>🏎️ motorsports fan<br><br>🎵 <a href="MUSIC.md">click me to see what i listen to</a></p>
 
 ###
 
