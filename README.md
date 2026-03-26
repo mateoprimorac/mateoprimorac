@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 fiddling with tech since i was 9<br>🛡️ looking to learn more about cybersecurity<br>⚙️ automation enjoyer<br>🏎️ motorsports fan<br><br>🎵 <a href="MUSIC.md">click me to see what music i listen to</a><br>🎮 <a href="GAMES.md">click me to see what video games i played</a></p>
+<p align="left">💻 fiddling with tech since i was 9<br>🛡️ looking to learn more about cybersecurity<br>⚙️ automation enjoyer<br>🏎️ motorsports fan<br><br>🎵 <a href="MUSIC.md">click me to see what music i listen to</a><br>🎮 <a href="GAMES.txt">click me to see what video games i played</a></p>
 
 ###
 
@@ -51,10 +51,10 @@
 ###
 
 <div align="center">
-  <a href=""><img src="https://visitor-badge.laobi.icu/badge?page_id=mateoprimorac.mateoprimorac&"/></a>
-  <a href=""><img src="https://img.shields.io/github/stars/mateoprimorac?style=flat&logo=github&color=yellow"/></a>
-  <a href=""><img src="https://img.shields.io/badge/donate-ko%20fi-brown"/></a>
-  <a href=""><img src="https://img.shields.io/badge/donate-crypto-orange"/></a>
+  <a href="https://github.com/mateoprimorac"><img src="https://visitor-badge.laobi.icu/badge?page_id=mateoprimorac.mateoprimorac&"/></a>
+  <a href="https://github.com/mateoprimorac"><img src="https://img.shields.io/github/stars/mateoprimorac?style=flat&logo=github&color=yellow"/></a>
+  <a href="https://ko-fi.com/mateoprimorac"><img src="https://img.shields.io/badge/donate-ko%20fi-brown"/></a>
+  <a href="https://github.com/mateoprimorac/mateoprimorac/blob/main/crypto.txt"><img src="https://img.shields.io/badge/donate-crypto-orange"/></a>
 </div>
 
 ###
