@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">my name is Mateo Primorac and i'm a student, from Bosnia and Herzegovina, Mostar.<br>i'm interested in all things tech, with the exception of iot and web3.<br><br>"Privacy is a human right." - The Tor Project<br>"An idiot admires complexity, a genius admires simplicity." - Terry A. Davis (1969 - 2018)</p>
+<p align="left">my name is Mateo Primorac and i'm a pupil, from Bosnia and Herzegovina, Mostar.<br>i'm interested in all things tech, with the exception of iot and web3.<br><br>"Privacy is a human right." - The Tor Project<br>"An idiot admires complexity, a genius admires simplicity." - Terry A. Davis (1969 - 2018)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">💻 fiddling with tech since i was 9<br>🛡️ looking to learn more about cybersecurity<br>⚙️ automation enjoyer<br>🏎️ motorsports fan<br><br>🎵 <a href="MUSIC.md">click me to see what music i listen to</a><br>🎮 <a href="GAMES.txt">click me to see what video games i played</a></p>
+<p align="left">💻 fiddling with tech since i was 9<br>🛡️ looking to learn more about cybersecurity<br>⚙️ automation enjoyer<br>🏎️ motorsports fan<br><br>🎵 <a href="MUSIC.md">click me to see what music i listen to</a><br>🎮 <a href="https://backloggd.com/u/mateoprimorac/games/">click me to see what video games i played</a></p>
 
 ###
 
